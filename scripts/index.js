@@ -22,11 +22,3 @@ function toggleMenu(){
 //now we want to add the function to the click of our button
 toggle.addEventListener("click",toggleMenu);
 
-
-
-
-
-
-
-
-
